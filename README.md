@@ -6,5 +6,3 @@
 ![Screenshot description](Screenshots/screen-1-small.png)
 ![Screenshot description](Screenshots/screen-2-small.png)
 ![Screenshot description](Screenshots/screen-3-small.png)
-![Screenshot description](Screenshots/screen-4-small.png)
-![Screenshot description](Screenshots/screen-5-small.png)
